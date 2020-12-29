@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=BlackArch-Icons
+Name=BlackArch-Dark
 Comment=Dark icon theme for BlackArch Linux. Mix of the following icon sets: Korla, Papirus.
 Inherits=breeze,gnome,hicolor
 
