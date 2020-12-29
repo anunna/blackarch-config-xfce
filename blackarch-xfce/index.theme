@@ -7,6 +7,6 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=BlackArch-Dark
 MetacityTheme=BlackArch-Dark
-IconTheme=BlackArch-Icons
-CursorTheme=BlackArch-Cursors
+IconTheme=BlackArch-Dark
+CursorTheme=BlackArch-Dark
 CursorSize=24
